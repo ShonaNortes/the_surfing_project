@@ -1,0 +1,12 @@
+.bg_image {
+    height: 50vh;
+    background-image: url("https://images.pexels.com/photos/2062141/pexels-photo-2062141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+}
+  
+h1, a, .nav-link {
+    color: white;
+}
+
+.temoignage, .prix {
+    color: black;
+}

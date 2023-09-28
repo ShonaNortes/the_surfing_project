@@ -1,0 +1,40 @@
+
+    
+
+.title {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.under_title {
+    display: flex;
+    justify-content: center;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+.surfer.png{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .navbar  {
+    color:black;
+    background-color: grey;
+  }
+  .background {
+    height: 100vh;
+  }
+
+  .title2 {
+    display: flex;
+    justify-content: center;
+  }
+
+  .bg_image {
+    height: 50vh;
+    background-image: url("https://images.pexels.com/photos/2062141/pexels-photo-2062141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  }
